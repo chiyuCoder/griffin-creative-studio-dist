@@ -1,0 +1,35 @@
+{
+  "homeView": {
+    "imgSrc": {
+      "logo": "logo.png",
+      "pencil": "pencil.png"
+    },
+    "title": "Griffin Creative Studio",
+    "description": "这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；\n这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容。",
+    "cardList": [
+      {
+        "title": "中文描述\n& 第一个"
+      },
+      {
+        "title": "中文描述\n& 第2个"
+      },
+      {
+        "title": "中文描述\n& 第3个"
+      },
+      {
+        "title": "中文描述\n& 第4个"
+      },
+      {
+        "title": "中文描述\n& 第5个"
+      }
+    ],
+    "circleInfo": {
+      "title": "GRIFFIN CREATIVE STUDIO",
+      "description": "这里有内容的: 相若的防火防盗舒服点东方红收到反馈就搞定了我怕坑大发不拿不舍得吃v出吧v发的那肯定是女分隔符技术交底都是GV广东省付款了十点半v代发好卡不到工时费是",
+      "email": "vicky.griffin.sg@gmail.com"
+    } 
+  },
+  "appScope": {
+    "logo": "logo.png"
+  }
+}
