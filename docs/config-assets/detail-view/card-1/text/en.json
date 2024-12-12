@@ -1,14 +1,18 @@
 {
   "banner": [
-    "banner.jpg"
+    ""
   ],
-  "title": "Brochures\n& Posters",
-  "description": "sadsadhefhdsjfgh  fdahdsb f bfesj lfd jsbv dedfjdnjbgdjkdksa; e[pewjgrhihklnghjkglhm khnkgnhlkgfjhogfmlkte,kjgbfoikrjegnjbgjnmlsejdgo bnm,.dcskkbngfjb das fvmcl;kslndfhoitl gbdfkgdfmkgl k gjhfiogjfkhnk ithb,gf./legmt hn gbdfn,mhfljt bda;;vfdnjydfuv  bhvdhbvnbdfg v j gfdvbhjgfsiukoigrhk,s smnpwefophnjb,vxs./nbvirhg  bgdfngmbvj uefs;mvoiyhgop \n dsciuwgei wq;vdbiuefwu  fwayrscdmvgergjayufcrxcbnvkphtijlmm v fgdancdjvguwsqcbv,n[pykmfdagfsyfcxbnbv  nvcvyuesd fmn ;mpk,jbsagtdfsa nfdhvioiht[pmnnffwqyt  dbhfyq;mvdnbjrh scvcugedn bnfigkpyjtmb  jrgfhsm fcbniewo mvdcbgiur",
+  "title": "",
+  "description": "",
   "imgList": [
+  ],
+  "articleImgList": [
+  ],
+  "articleMainImgList": [
     "img-1.jpg",
     "img-2.jpg"
   ],
-  "articleImgList": [
+  "articleBelowImgList": [
     "img-1.jpg",
     "img-2.jpg"
   ]

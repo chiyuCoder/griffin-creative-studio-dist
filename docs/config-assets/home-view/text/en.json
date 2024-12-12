@@ -8,19 +8,39 @@
     "description": "We are a professional design studio specializing in brand identity design, promotional materials,\nand creative gift packaging, delivering limitless possibilities for your brand",
     "cardList": [
       {
-        "title": "Brand Identity\n& Visual Systems"
+        "title": "Brand Identity\n& Visual Systems",
+        "thumbs": [
+          "banner.jpg",
+          "banner.jpg"
+        ]
       },
       {
-        "title": "Brochures\n& Posters"
+        "title": "Brochures\n& Posters",
+        "thumbs": [
+          "banner.jpg",
+          "banner.jpg"
+        ]
       },
       {
-        "title": "Graphic Design\n& Creative Products"
+        "title": "Graphic Design\n& Creative Products",
+        "thumbs": [
+          "banner.jpg",
+          "banner.jpg"
+        ]
       },
       {
-        "title": "Customized Gifts"
+        "title": "Customized Gifts",
+        "thumbs": [
+          "banner.jpg",
+          "banner.jpg"
+        ]
       },
       {
-        "title": "UI/UX Design\n& Web Concepts"
+        "title": "UI/UX Design\n& Web Concepts",
+        "thumbs": [
+          "banner.jpg",
+          "banner.jpg"
+        ]
       }
     ],
     "circleInfo": {

@@ -8,19 +8,39 @@
     "description": "这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；\n这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容。",
     "cardList": [
       {
-        "title": "中文描述\n& 第一个"
+        "title": "中文描述\n& 第一个",
+        "thumbs": [
+          "banner.jpg",
+          "banner.jpg"
+        ]
       },
       {
-        "title": "中文描述\n& 第2个"
+        "title": "中文描述\n& 第2个",
+        "thumbs": [
+          "banner.jpg",
+          "banner.jpg"
+        ]
       },
       {
-        "title": "中文描述\n& 第3个"
+        "title": "中文描述\n& 第3个",
+        "thumbs": [
+          "banner.jpg",
+          "banner.jpg"
+        ]
       },
       {
-        "title": "中文描述\n& 第4个"
+        "title": "中文描述\n& 第4个",
+        "thumbs": [
+          "banner.jpg",
+          "banner.jpg"
+        ]
       },
       {
-        "title": "中文描述\n& 第5个"
+        "title": "中文描述\n& 第5个",
+        "thumbs": [
+          "banner.jpg",
+          "banner.jpg"
+        ]
       }
     ],
     "circleInfo": {
