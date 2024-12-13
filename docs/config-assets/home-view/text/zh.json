@@ -1,11 +1,11 @@
 {
   "homeView": {
     "imgSrc": {
-      "logo": "logo.png",
-      "pencil": "pencil.png"
+      "logo": "logo-zh.png",
+      "pencil": "pencil-zh.png"
     },
     "title": "Griffin Creative Studio",
-    "description": "这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；\n这里是中文描述内容；这里是中文描述内容；这里是中文描述内容；这里是中文描述内容。",
+    "description": "格里芬创意工作室是一家专业的设计服务机构,专注于品牌形象设计、宣传物料设计以及礼盒文创设计等\n为您的品牌创造无限可能",
     "cardList": [
       {
         "title": "中文描述\n& 第一个",
@@ -44,12 +44,14 @@
       }
     ],
     "circleInfo": {
-      "title": "GRIFFIN CREATIVE STUDIO",
-      "description": "这里有内容的: 相若的防火防盗舒服点东方红收到反馈就搞定了我怕坑大发不拿不舍得吃v出吧v发的那肯定是女分隔符技术交底都是GV广东省付款了十点半v代发好卡不到工时费是",
+      "title": "格里芬创意工作室",
+      "description": "从概念到成品\n品牌全旅程成长伙伴",
       "email": "vicky.griffin.sg@gmail.com"
     } 
   },
   "appScope": {
-    "logo": "logo.png"
+    "logo": "logo-zh.png",
+    "copyRight": "Copyright &copy; Griffin Creative Studio 2024. All rights reserved.",
+    "baseIn": "Based in Nanjing China"
   }
 }

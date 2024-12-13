@@ -2,10 +2,10 @@
   "homeView": {
     "imgSrc": {
       "logo": "logo.png",
-      "pencil": "pencil.png"
+      "pencil": "pencil-jp.png"
     },
     "title": "Griffin Creative Studio",
-    "description": "We are a professional design studio specializing in brand identity design, promotional materials,\nand creative gift packaging, delivering limitless possibilities for your brand",
+    "description": "私たちは、ブランドアイデンティティデザイン、販促資料デザイン、、クリ、クリエイティブ、クリエイティブギフトパッケージに特化したプロのデザインスタジオです。\nあなたのブランドに無限の可能性を提供します",
     "cardList": [
       {
         "title": "Brand Identity\n& Visual Systems",
@@ -45,11 +45,13 @@
     ],
     "circleInfo": {
       "title": "GRIFFIN CREATIVE STUDIO",
-      "description": "From Concept to Impact Full Lifecycle Brand Solutions",
+      "description": "コンセプトからインパクトへ、ブランドのすべてを\n支えるサービスを提供します",
       "email": "vicky.griffin.sg@gmail.com"
     } 
   },
   "appScope": {
-    "logo": "logo.png"
+    "logo": "logo.png",
+    "copyRight": "Copyright &copy; Griffin Creative Studio 2024. All rights reserved.",
+    "baseIn": "Based in Nanjing China"
   }
 }
