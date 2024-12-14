@@ -1,42 +1,42 @@
 {
   "homeView": {
     "imgSrc": {
-      "logo": "logo-zh.png",
+      "logo": "logo-zh-with-title.png",
       "pencil": "pencil-zh.png"
     },
     "title": "Griffin Creative Studio",
     "description": "格里芬创意工作室是一家专业的设计服务机构,专注于品牌形象设计、宣传物料设计以及礼盒文创设计等\n为您的品牌创造无限可能",
     "cardList": [
       {
-        "title": "中文描述\n& 第一个",
+        "title": "品牌形象\n视觉识别系统",
         "thumbs": [
           "banner.jpg",
           "banner.jpg"
         ]
       },
       {
-        "title": "中文描述\n& 第2个",
+        "title": "宣传册\n企业形象广告",
         "thumbs": [
           "banner.jpg",
           "banner.jpg"
         ]
       },
       {
-        "title": "中文描述\n& 第3个",
+        "title": "平面设计\n创意产品",
         "thumbs": [
           "banner.jpg",
           "banner.jpg"
         ]
       },
       {
-        "title": "中文描述\n& 第4个",
+        "title": "个性化礼品定制",
         "thumbs": [
           "banner.jpg",
           "banner.jpg"
         ]
       },
       {
-        "title": "中文描述\n& 第5个",
+        "title": "UI/UX设计\n概念网站",
         "thumbs": [
           "banner.jpg",
           "banner.jpg"
@@ -50,8 +50,8 @@
     } 
   },
   "appScope": {
-    "logo": "logo-zh.png",
-    "copyRight": "Copyright &copy; Griffin Creative Studio 2024. All rights reserved.",
+    "logo": "logo-header-zh.png",
+    "copyRight": "Copyright © Griffin Creative Studio 2024. All rights reserved.",
     "baseIn": "Based in Nanjing China"
   }
 }

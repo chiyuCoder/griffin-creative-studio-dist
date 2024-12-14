@@ -50,8 +50,8 @@
     } 
   },
   "appScope": {
-    "logo": "logo.png",
-    "copyRight": "Copyright &copy; Griffin Creative Studio 2024. All rights reserved.",
+    "logo": "logo-header-en.png",
+    "copyRight": "Copyright © Griffin Creative Studio 2024. All rights reserved.",
     "baseIn": "Based in Nanjing China"
   }
 }
