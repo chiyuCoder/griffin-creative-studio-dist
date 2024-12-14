@@ -50,11 +50,7 @@
     } 
   },
   "appScope": {
-<<<<<<< HEAD
     "logo": "logo-header-jp.png",
-=======
-    "logo": "logo.png",
->>>>>>> cf9e3e2e311790b0a38e52d1864fa4506b5a7452
     "copyRight": "Copyright © Griffin Creative Studio 2024. All rights reserved.",
     "baseIn": "Based in Nanjing China"
   }
