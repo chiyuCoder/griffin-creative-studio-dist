@@ -30,6 +30,6 @@
 
 ## 配置项目对应图
 
-> 下图中的绿色部分(以 "appScope>" 开头的部分)对应的配置项目在home-view中
+> 下图中的绿色部分(以 "appScope>" 开头的部分)对应的配置项目在[home-view](./home-view.md)中
 
 ![对应图](./img/detail-view.jpg)
